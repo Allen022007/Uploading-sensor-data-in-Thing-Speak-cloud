@@ -1,5 +1,5 @@
-### NAME : NATHER NABEEL S.A.C
-### REG NO : 24900919
+### NAME : W Allen
+### REG NO : 24900645
 
 # Uploading temperature sensor data in Thing Speak cloud
 
